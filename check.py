@@ -1,10 +1,5 @@
-
-
-
-
-
-
 alfabetet = "ABCDEFGHIJKLMNOPQRSTUWVXYZ" 
+
 class PasswordCheck(): 
     
     
